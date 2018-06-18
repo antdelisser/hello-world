@@ -1,3 +1,5 @@
 This is text file 1 in master branch
 
 Edited this file in FEATURE branch only. I want this file only (out of the three total files) to download to my local machine when checking out a branch. Bascially I'm looking for a way for only the diffs to download, instead of the entire repository.
+
+EDIT 2: I made this edit/commit in the Github desktop editor
