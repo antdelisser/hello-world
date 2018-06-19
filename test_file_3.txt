@@ -1,0 +1,5 @@
+This is text file 3 in FEATURE branch
+
+file was created on desktop while github desktop client was closed
+
+im going to try and "commit" this file so that it only appears in FEATURE branch
