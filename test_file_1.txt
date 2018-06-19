@@ -1,1 +1,3 @@
 This is text file 1 in master branch
+
+updated this file in master branch after feature branch was created and file was updated
